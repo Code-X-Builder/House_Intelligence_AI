@@ -71,3 +71,4 @@
 // technical change 71 - feat: prepare sentence-transformer embedding path for richer NLP
 // technical change 72 - feat: finalize production hardening of pipeline and app
 // technical change 73 - chore: freeze feature set and prepare v1.0 release candidate
+// technical change 1 - feat: bootstrap project structure and data loading pipeline
