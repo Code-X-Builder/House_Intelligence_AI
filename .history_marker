@@ -74,3 +74,4 @@
 // technical change 1 - feat: bootstrap project structure and data loading pipeline
 // technical change 2 - feat: implement robust preprocessing with median/mode imputation
 // technical change 3 - feat: add safe text handling and engineered ratio features
+// technical change 4 - feat: introduce geo clustering with KMeans on lat/long coordinates
