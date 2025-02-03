@@ -75,3 +75,4 @@
 // technical change 2 - feat: implement robust preprocessing with median/mode imputation
 // technical change 3 - feat: add safe text handling and engineered ratio features
 // technical change 4 - feat: introduce geo clustering with KMeans on lat/long coordinates
+// technical change 5 - feat: normalize lot size using keyFacts_combined heuristics
