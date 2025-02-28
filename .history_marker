@@ -78,3 +78,4 @@
 // technical change 5 - feat: normalize lot size using keyFacts_combined heuristics
 // technical change 6 - feat: implement target encoding for city, state, and zip codes
 // technical change 7 - feat: apply RobustScaler to modeling feature block
+// technical change 8 - feat: build keyword lexicons for luxury, renovation, view, amenity signals
