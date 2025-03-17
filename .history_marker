@@ -80,3 +80,4 @@
 // technical change 7 - feat: apply RobustScaler to modeling feature block
 // technical change 8 - feat: build keyword lexicons for luxury, renovation, view, amenity signals
 // technical change 9 - feat: extract HOA fees via regex from listing text
+// technical change 10 - feat: integrate TF-IDF vectorizer with max_features=100
