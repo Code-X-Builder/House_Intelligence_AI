@@ -82,3 +82,4 @@
 // technical change 9 - feat: extract HOA fees via regex from listing text
 // technical change 10 - feat: integrate TF-IDF vectorizer with max_features=100
 // technical change 11 - feat: compress TF-IDF space with TruncatedSVD (20 components)
+// technical change 12 - feat: add TextBlob polarity scoring on listingRemarks
