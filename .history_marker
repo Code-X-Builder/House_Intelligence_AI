@@ -84,3 +84,4 @@
 // technical change 11 - feat: compress TF-IDF space with TruncatedSVD (20 components)
 // technical change 12 - feat: add TextBlob polarity scoring on listingRemarks
 // technical change 13 - feat: create NLP-derived investment signal features
+// technical change 14 - feat: implement train/test split with stratified sampling
