@@ -87,3 +87,4 @@
 // technical change 14 - feat: implement train/test split with stratified sampling
 // technical change 15 - feat: add LinearRegression and Ridge baselines
 // technical change 16 - feat: introduce DecisionTreeRegressor with depth control
+// technical change 17 - feat: implement RandomForestRegressor with bagging
