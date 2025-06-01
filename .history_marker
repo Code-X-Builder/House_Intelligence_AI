@@ -89,3 +89,4 @@
 // technical change 16 - feat: introduce DecisionTreeRegressor with depth control
 // technical change 17 - feat: implement RandomForestRegressor with bagging
 // technical change 18 - feat: add GradientBoostingRegressor stage-wise training
+// technical change 19 - feat: integrate XGBRegressor with early stopping support
