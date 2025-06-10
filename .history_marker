@@ -90,3 +90,4 @@
 // technical change 17 - feat: implement RandomForestRegressor with bagging
 // technical change 18 - feat: add GradientBoostingRegressor stage-wise training
 // technical change 19 - feat: integrate XGBRegressor with early stopping support
+// technical change 20 - feat: implement SVR with RBF kernel as high-capacity model
