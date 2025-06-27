@@ -92,3 +92,4 @@
 // technical change 19 - feat: integrate XGBRegressor with early stopping support
 // technical change 20 - feat: implement SVR with RBF kernel as high-capacity model
 // technical change 21 - feat: add MLPRegressor deep learning neural network
+// technical change 22 - feat: wrap all models in RandomizedSearchCV tuning framework
