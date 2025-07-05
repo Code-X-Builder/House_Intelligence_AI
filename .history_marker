@@ -93,3 +93,4 @@
 // technical change 20 - feat: implement SVR with RBF kernel as high-capacity model
 // technical change 21 - feat: add MLPRegressor deep learning neural network
 // technical change 22 - feat: wrap all models in RandomizedSearchCV tuning framework
+// technical change 23 - feat: configure cross-validation (cv=5/3) with fixed random_state
