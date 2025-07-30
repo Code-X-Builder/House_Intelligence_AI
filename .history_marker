@@ -96,3 +96,4 @@
 // technical change 23 - feat: configure cross-validation (cv=5/3) with fixed random_state
 // technical change 24 - feat: select champion model by lowest RMSE on hold-out set
 // technical change 25 - feat: compute permutation importance for non-tree models
+// technical change 26 - feat: export model metrics (RMSE, MAE, R²) to reports/
