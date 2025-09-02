@@ -100,3 +100,4 @@
 // technical change 27 - feat: serialize best_model, scaler, and target_encoder artifacts
 // technical change 28 - feat: persist tfidf and svd transformers for inference
 // technical change 29 - feat: design HouseScore composite with weighted components
+// technical change 30 - feat: apply Min-Max normalization before HouseScore blending
