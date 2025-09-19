@@ -102,3 +102,4 @@
 // technical change 29 - feat: design HouseScore composite with weighted components
 // technical change 30 - feat: apply Min-Max normalization before HouseScore blending
 // technical change 31 - feat: assign 3-tier classification (Budget / Mid-Range / Premium)
+// technical change 32 - feat: compute percentile thresholds at 33rd and 67th for tiers
