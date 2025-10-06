@@ -104,3 +104,4 @@
 // technical change 31 - feat: assign 3-tier classification (Budget / Mid-Range / Premium)
 // technical change 32 - feat: compute percentile thresholds at 33rd and 67th for tiers
 // technical change 33 - feat: rank listings by undervalued percentage pricing gap
+// technical change 34 - feat: export top_ranked_houses.csv with opportunity scores
