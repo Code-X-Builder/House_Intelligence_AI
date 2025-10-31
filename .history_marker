@@ -107,3 +107,4 @@
 // technical change 34 - feat: export top_ranked_houses.csv with opportunity scores
 // technical change 35 - feat: generate feature importance report for champion model
 // technical change 36 - feat: create model evaluation summary combining regression + tiers
+// technical change 37 - feat: implement SHAP TreeExplainer for tree-based models
