@@ -109,3 +109,4 @@
 // technical change 36 - feat: create model evaluation summary combining regression + tiers
 // technical change 37 - feat: implement SHAP TreeExplainer for tree-based models
 // technical change 38 - feat: add LinearExplainer and KernelExplainer fallbacks
+// technical change 39 - feat: produce beeswarm summary and bar importance SHAP plots
