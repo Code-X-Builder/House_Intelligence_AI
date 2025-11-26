@@ -110,3 +110,4 @@
 // technical change 37 - feat: implement SHAP TreeExplainer for tree-based models
 // technical change 38 - feat: add LinearExplainer and KernelExplainer fallbacks
 // technical change 39 - feat: produce beeswarm summary and bar importance SHAP plots
+// technical change 40 - feat: generate waterfall plot for highest HouseScore listing
