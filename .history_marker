@@ -112,3 +112,4 @@
 // technical change 39 - feat: produce beeswarm summary and bar importance SHAP plots
 // technical change 40 - feat: generate waterfall plot for highest HouseScore listing
 // technical change 41 - feat: build matplotlib/seaborn visualization suite
+// technical change 42 - feat: create interactive Plotly HTML geo maps of listings
