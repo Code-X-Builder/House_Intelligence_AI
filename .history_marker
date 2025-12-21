@@ -113,3 +113,4 @@
 // technical change 40 - feat: generate waterfall plot for highest HouseScore listing
 // technical change 41 - feat: build matplotlib/seaborn visualization suite
 // technical change 42 - feat: create interactive Plotly HTML geo maps of listings
+// technical change 43 - feat: add anomaly detection module for outlier listings
