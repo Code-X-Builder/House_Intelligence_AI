@@ -115,3 +115,4 @@
 // technical change 42 - feat: create interactive Plotly HTML geo maps of listings
 // technical change 43 - feat: add anomaly detection module for outlier listings
 // technical change 44 - feat: implement end-to-end pipeline.py orchestration entrypoint
+// technical change 45 - feat: suppress non-critical warnings during Ridge CV
