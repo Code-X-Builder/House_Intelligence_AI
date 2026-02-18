@@ -120,3 +120,4 @@
 // technical change 47 - feat: add interactive metrics cards and KPI panels
 // technical change 48 - feat: integrate HouseScore distribution and tier breakdowns
 // technical change 49 - feat: embed SHAP and geo visualizations inside Streamlit app
+// technical change 50 - feat: implement listing detail explorer with filters
