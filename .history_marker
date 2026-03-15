@@ -123,3 +123,4 @@
 // technical change 50 - feat: implement listing detail explorer with filters
 // technical change 51 - feat: add undervalued opportunity ranking view
 // technical change 52 - feat: create model comparison table in dashboard
+// technical change 53 - feat: support dynamic re-scoring of custom feature weights
