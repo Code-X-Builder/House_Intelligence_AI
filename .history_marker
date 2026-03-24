@@ -124,3 +124,4 @@
 // technical change 51 - feat: add undervalued opportunity ranking view
 // technical change 52 - feat: create model comparison table in dashboard
 // technical change 53 - feat: support dynamic re-scoring of custom feature weights
+// technical change 54 - feat: add dark/light theme toggle for Streamlit UI
