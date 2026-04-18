@@ -127,3 +127,4 @@
 // technical change 54 - feat: add dark/light theme toggle for Streamlit UI
 // technical change 55 - feat: implement responsive layout for desktop and tablet
 // technical change 56 - feat: export processed_dataset.csv after full feature engineering
+// technical change 57 - feat: add requirements.txt with pinned ML and viz dependencies
