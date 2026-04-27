@@ -128,3 +128,4 @@
 // technical change 55 - feat: implement responsive layout for desktop and tablet
 // technical change 56 - feat: export processed_dataset.csv after full feature engineering
 // technical change 57 - feat: add requirements.txt with pinned ML and viz dependencies
+// technical change 58 - feat: write comprehensive README with architecture overview
