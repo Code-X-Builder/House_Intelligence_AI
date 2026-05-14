@@ -130,3 +130,4 @@
 // technical change 57 - feat: add requirements.txt with pinned ML and viz dependencies
 // technical change 58 - feat: write comprehensive README with architecture overview
 // technical change 59 - feat: document HouseScore formula and tier logic
+// technical change 60 - feat: explain NLP pipeline and SHAP explainability flow
