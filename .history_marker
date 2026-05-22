@@ -131,3 +131,4 @@
 // technical change 58 - feat: write comprehensive README with architecture overview
 // technical change 59 - feat: document HouseScore formula and tier logic
 // technical change 60 - feat: explain NLP pipeline and SHAP explainability flow
+// technical change 61 - feat: add installation and reproducible run instructions
