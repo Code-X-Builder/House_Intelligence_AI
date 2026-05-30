@@ -132,3 +132,4 @@
 // technical change 59 - feat: document HouseScore formula and tier logic
 // technical change 60 - feat: explain NLP pipeline and SHAP explainability flow
 // technical change 61 - feat: add installation and reproducible run instructions
+// technical change 62 - feat: create SETUP_GUIDE and FREE_SETUP_AND_USAGE_GUIDE
