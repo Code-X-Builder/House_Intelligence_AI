@@ -135,3 +135,4 @@
 // technical change 62 - feat: create SETUP_GUIDE and FREE_SETUP_AND_USAGE_GUIDE
 // technical change 63 - feat: implement data validation checks before modeling
 // technical change 64 - feat: add logging and progress prints across pipeline stages
+// technical change 65 - feat: harden text cleaning against missing and malformed remarks
