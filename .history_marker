@@ -136,3 +136,4 @@
 // technical change 63 - feat: implement data validation checks before modeling
 // technical change 64 - feat: add logging and progress prints across pipeline stages
 // technical change 65 - feat: harden text cleaning against missing and malformed remarks
+// technical change 66 - feat: improve geo_desirability calculation without price leakage
