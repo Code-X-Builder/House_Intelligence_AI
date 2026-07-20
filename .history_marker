@@ -138,3 +138,4 @@
 // technical change 65 - feat: harden text cleaning against missing and malformed remarks
 // technical change 66 - feat: improve geo_desirability calculation without price leakage
 // technical change 67 - feat: refine luxury and amenity keyword coverage
+// technical change 68 - feat: tune SVD components and TF-IDF max_features
