@@ -142,3 +142,4 @@
 // technical change 69 - feat: experiment with nested CV for leakage-safe encoding
 // technical change 70 - feat: add temporal split option for future market robustness
 // technical change 71 - feat: prepare sentence-transformer embedding path for richer NLP
+// technical change 72 - feat: finalize production hardening of pipeline and app
