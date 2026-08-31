@@ -1,0 +1,73 @@
+// technical change 1 - feat: bootstrap project structure and data loading pipeline
+// technical change 2 - feat: implement robust preprocessing with median/mode imputation
+// technical change 3 - feat: add safe text handling and engineered ratio features
+// technical change 4 - feat: introduce geo clustering with KMeans on lat/long coordinates
+// technical change 5 - feat: normalize lot size using keyFacts_combined heuristics
+// technical change 6 - feat: implement target encoding for city, state, and zip codes
+// technical change 7 - feat: apply RobustScaler to modeling feature block
+// technical change 8 - feat: build keyword lexicons for luxury, renovation, view, amenity signals
+// technical change 9 - feat: extract HOA fees via regex from listing text
+// technical change 10 - feat: integrate TF-IDF vectorizer with max_features=100
+// technical change 11 - feat: compress TF-IDF space with TruncatedSVD (20 components)
+// technical change 12 - feat: add TextBlob polarity scoring on listingRemarks
+// technical change 13 - feat: create NLP-derived investment signal features
+// technical change 14 - feat: implement train/test split with stratified sampling
+// technical change 15 - feat: add LinearRegression and Ridge baselines
+// technical change 16 - feat: introduce DecisionTreeRegressor with depth control
+// technical change 17 - feat: implement RandomForestRegressor with bagging
+// technical change 18 - feat: add GradientBoostingRegressor stage-wise training
+// technical change 19 - feat: integrate XGBRegressor with early stopping support
+// technical change 20 - feat: implement SVR with RBF kernel as high-capacity model
+// technical change 21 - feat: add MLPRegressor deep learning neural network
+// technical change 22 - feat: wrap all models in RandomizedSearchCV tuning framework
+// technical change 23 - feat: configure cross-validation (cv=5/3) with fixed random_state
+// technical change 24 - feat: select champion model by lowest RMSE on hold-out set
+// technical change 25 - feat: compute permutation importance for non-tree models
+// technical change 26 - feat: export model metrics (RMSE, MAE, R²) to reports/
+// technical change 27 - feat: serialize best_model, scaler, and target_encoder artifacts
+// technical change 28 - feat: persist tfidf and svd transformers for inference
+// technical change 29 - feat: design HouseScore composite with weighted components
+// technical change 30 - feat: apply Min-Max normalization before HouseScore blending
+// technical change 31 - feat: assign 3-tier classification (Budget / Mid-Range / Premium)
+// technical change 32 - feat: compute percentile thresholds at 33rd and 67th for tiers
+// technical change 33 - feat: rank listings by undervalued percentage pricing gap
+// technical change 34 - feat: export top_ranked_houses.csv with opportunity scores
+// technical change 35 - feat: generate feature importance report for champion model
+// technical change 36 - feat: create model evaluation summary combining regression + tiers
+// technical change 37 - feat: implement SHAP TreeExplainer for tree-based models
+// technical change 38 - feat: add LinearExplainer and KernelExplainer fallbacks
+// technical change 39 - feat: produce beeswarm summary and bar importance SHAP plots
+// technical change 40 - feat: generate waterfall plot for highest HouseScore listing
+// technical change 41 - feat: build matplotlib/seaborn visualization suite
+// technical change 42 - feat: create interactive Plotly HTML geo maps of listings
+// technical change 43 - feat: add anomaly detection module for outlier listings
+// technical change 44 - feat: implement end-to-end pipeline.py orchestration entrypoint
+// technical change 45 - feat: suppress non-critical warnings during Ridge CV
+// technical change 46 - feat: design premium Streamlit dashboard with glassmorphism UI
+// technical change 47 - feat: add interactive metrics cards and KPI panels
+// technical change 48 - feat: integrate HouseScore distribution and tier breakdowns
+// technical change 49 - feat: embed SHAP and geo visualizations inside Streamlit app
+// technical change 50 - feat: implement listing detail explorer with filters
+// technical change 51 - feat: add undervalued opportunity ranking view
+// technical change 52 - feat: create model comparison table in dashboard
+// technical change 53 - feat: support dynamic re-scoring of custom feature weights
+// technical change 54 - feat: add dark/light theme toggle for Streamlit UI
+// technical change 55 - feat: implement responsive layout for desktop and tablet
+// technical change 56 - feat: export processed_dataset.csv after full feature engineering
+// technical change 57 - feat: add requirements.txt with pinned ML and viz dependencies
+// technical change 58 - feat: write comprehensive README with architecture overview
+// technical change 59 - feat: document HouseScore formula and tier logic
+// technical change 60 - feat: explain NLP pipeline and SHAP explainability flow
+// technical change 61 - feat: add installation and reproducible run instructions
+// technical change 62 - feat: create SETUP_GUIDE and FREE_SETUP_AND_USAGE_GUIDE
+// technical change 63 - feat: implement data validation checks before modeling
+// technical change 64 - feat: add logging and progress prints across pipeline stages
+// technical change 65 - feat: harden text cleaning against missing and malformed remarks
+// technical change 66 - feat: improve geo_desirability calculation without price leakage
+// technical change 67 - feat: refine luxury and amenity keyword coverage
+// technical change 68 - feat: tune SVD components and TF-IDF max_features
+// technical change 69 - feat: experiment with nested CV for leakage-safe encoding
+// technical change 70 - feat: add temporal split option for future market robustness
+// technical change 71 - feat: prepare sentence-transformer embedding path for richer NLP
+// technical change 72 - feat: finalize production hardening of pipeline and app
+// technical change 73 - chore: freeze feature set and prepare v1.0 release candidate
