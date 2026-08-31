@@ -143,3 +143,4 @@
 // technical change 70 - feat: add temporal split option for future market robustness
 // technical change 71 - feat: prepare sentence-transformer embedding path for richer NLP
 // technical change 72 - feat: finalize production hardening of pipeline and app
+// technical change 73 - chore: freeze feature set and prepare v1.0 release candidate
